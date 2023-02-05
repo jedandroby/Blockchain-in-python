@@ -32,7 +32,7 @@ Letting you know that the chain is successfully stacked and in the right order. 
 
 ## Contributors
 
-[Robin Thorsen](https://www.linkedin.com/in/robin-thorsen-079819120/), [Kaio Farkouh](https://www.linkedin.com/in/kaio-farkouh/), [Zach Eras](https://www.linkedin.com/in/zachary-eras-24b5a8149/) are the developers/analysts who worked on this project. 
+[Robin Thorsen](https://www.linkedin.com/in/robin-thorsen-079819120/)was the developer who worked on this project. 
 
 ---
 
